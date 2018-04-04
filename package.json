@@ -83,7 +83,6 @@
   "optionalDependencies": {
     "puppeteer": "^1.1.1"
   },
-
   "lint-staged": {
     "**/*.{js,jsx,less}": [
       "prettier --wirter",
